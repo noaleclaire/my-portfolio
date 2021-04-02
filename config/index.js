@@ -2,23 +2,23 @@ module.exports = {
   //-- SITE SETTINGS -----
   author: "@konstantinmuenster",
   siteTitle: "Gatsby Starter Portfolio Minimal",
-  siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+  siteShortTitle: "My Portfolio Gatsby", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "A modern one-page portfolio with a clean yet expressive design.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
-  siteLanguage: "en_US",
+  siteLanguage: "en_EN",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
-  
+
   // -- THEME SETTINGS -----
   colors: {
     lightTheme: {
-      primary: "#000000",
+      primary: "#10BDB1",
       secondary: "#FFF4D9",
       tertiary: "#F2F2F2",
-      text: "#000000",
+      text: "#8A8A86",
       subtext: "#555555",
-      background: "#FFFFFF",
+      background: "#BDFF55",
       card: "#FFFFFF",
       scrollBar: "rgba(0, 0, 0, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
